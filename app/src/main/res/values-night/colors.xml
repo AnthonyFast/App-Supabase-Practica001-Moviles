@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- En modo oscuro el fondo y el título se ajustan para que se lean bien -->
+    <color name="verde_fondo">#1A2112</color>
+    <color name="verde_titulo">#A9C77C</color>
+</resources>

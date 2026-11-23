@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--
+        Versión 2: mismo verde de la versión original (#577A26), pero en un tono más oscuro.
+        Para cambiar el tono de toda la app, cambia SOLO "verde_principal":
+          - Original ............ #577A26
+          - Más oscuro (actual) . #3E5A1A
+          - Más claro ........... #7A9E45
+    -->
+    <color name="verde_principal">#3E5A1A</color>
+
+    <!-- Fondo suave del mismo verde, para la pantalla -->
+    <color name="verde_fondo">#F1F5EA</color>
+
+    <!-- Color del título "Alumnos UTEQ" -->
+    <color name="verde_titulo">#3E5A1A</color>
+</resources>
